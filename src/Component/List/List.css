@@ -1,0 +1,95 @@
+.header-list{
+          /* width:1260px; */
+          background-color:#FFFFFF;
+          position:relative;
+          box-shadow: 0px 0px 12px #0000000f;
+          height:64px;
+          /* margin-left:72px; */
+          /* margin-right:72px; */
+          display:flex;
+}
+.progress1{
+
+height:6px;
+border-radius: 10px;
+margin-left:60px;
+margin-top:29px;
+}
+progress::-webkit-progress-value {
+          background:#FFD581;
+}
+progress::-webkit-progress-bar {
+          background:#FFFFFF;
+}
+.button1{
+          border-radius: 100rem;
+          padding: 1rem;
+          font-family: 'Avenir Next';
+          font-size: 1rem;
+          padding: .5rem 3rem;
+          height:25px;
+          width:96px;
+          background:#F2F9FF;
+          margin-left:17px;
+          margin-top:23px;
+          /* text-align: center; */
+          /* color: $color-black; */
+          /* box-shadow: 0 0 6px 0 rgba(157, 96, 212, 0.5); */
+          /* border: solid 3px transparent; */
+          /* background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #78e4ff, #ff48fa); */
+          /* background-origin: border-box; */
+          /* background-clip: content-box, border-box; */
+          /* box-shadow: 2px 1000px 1px #fff inset;  */
+}
+
+div.button1{
+          /* position:absolute; */
+          margin-left:9px;
+}
+.to{
+          margin-left:44px;
+          margin-top:23px;
+          font-weight: 500;
+}
+.value{
+          margin-top:23px;
+          margin-left:53px;
+          font-weight:500;
+}
+.valuec{
+          margin-top:28px;
+          font-size:13px;
+          margin-left:3px;
+          color: #666666;
+          text-transform: capitalize;
+          font-weight:600;
+}
+.sdate{
+          margin-left:70px;
+          margin-top:24px;
+          margin-bottom:24px;
+}
+.edate{
+          margin-left:90px;
+          margin-top:24px;
+          margin-bottom:24px;
+}
+.buttonLink{
+          height:28px;
+          width:82px;
+          margin-left:93px;
+          margin-top:18px;
+          margin-bottom:18px;
+          border-radius: 100rem;
+          /* transition: all .5s ease; */
+          color: #2B8DFF;
+          border: 1px solid #2B8DFF;
+          font-family:'Montserrat', sans-serif;
+          text-transform: uppercase;
+          text-align: center;
+          line-height: 1;
+          font-size: 17px;
+          background-color : transparent;
+          border-radius: 6px;
+          
+}

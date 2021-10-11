@@ -1,0 +1,199 @@
+.firstdiv{
+/* top: 61px;  given in adobe task*/
+margin-top:61px; /* defined by me */
+left: 0px;
+/* width: 1440px; give in adobe  */
+height: 839px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 18px 18px 0px 0px;
+opacity: 1;
+/* background: blueviolet; */
+}
+.updiv{
+          margin-top:5px;
+          /* background-color: #F00; */
+    
+    height:171px;
+}
+.h7{
+          padding-top: 134px;
+          margin:134px 0 0  146px;
+/* margin-left: 146px; */
+width: 415px;
+height: 36px;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 36px/51px Gilroy-SemiBold;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 36px/51px Gilroy-SemiBold;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.text1{
+          /* top: 180px; */
+          margin:10px 0 0 146px;
+/* margin-left: 146px; */
+width: 398px;
+height: 18px;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 18px/26px var(--unnamed-font-family-gilroy-regular);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 18px/26px Gilroy-Regular;
+letter-spacing: 0px;
+color: #444444;
+opacity: 1;
+}
+.middiv{
+          /* display:flex; */
+          /* margin-top: 232px; */
+margin-left: 146px;
+width: 1006px;
+height: 495px;
+opacity: 1;
+/* background:#d4aaaa */
+}
+.text2{
+          /* top: 232px; */
+left: 146px;
+width: 148px;
+height: 22px;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 22px/63px Gilroy-Medium;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 22px/63px Gilroy-Medium;
+letter-spacing: 0px;
+color: #888888;
+opacity: 1;
+}
+.label1{
+          /* display:flex; */
+          margin-top: 70px;
+/* margin-left: 146px; */
+width: 164px;
+height: 20px;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 20px/28px Gilroy-Medium;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 20px/28px Gilroy-Medium;
+letter-spacing: 0px;
+color: #222222;
+opacity: 1;
+}
+.mdiv{
+          margin-top:18px;
+}
+.label2{
+          /* top: 281px; */
+margin-top:36px;
+margin-left: 381px;
+width: 131px;
+height: 20px;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 20px/28px Gilroy-Medium;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 20px/28px Gilroy-Medium;
+letter-spacing: 0px;
+color: #222222;
+opacity: 1;
+}
+.formControl{
+          margin-top: 18px;
+/* margin-left: 146px; */
+width: 380px;
+height: 54px;
+border: 1px solid #C3C3C3;
+border-radius: 8px;
+opacity: 1;
+}
+icon{
+          margin-top: 18px;
+margin-left: 70px;
+width: 89px;
+height: 54px;
+background: #F7F7F7 0% 0% no-repeat padding-box;
+border: 1px solid #C3C3C3;
+border-radius: 8px;
+opacity: 1;
+}
+
+.formControl1{ 
+          /* display:flex; */
+/* margin-top: 18px; */
+margin-left: 126px;
+width: 479px;
+height: 54px;
+border: 1px solid #C3C3C3;
+border-radius: 8px;
+opacity: 1;
+}
+.label3{
+          margin-top: 409px;
+left: 146px;
+width: 94px;
+height: 20px;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 20px/28px Gilroy-Medium;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 20px/28px Gilroy-Medium;
+letter-spacing: 0px;
+color: #222222;
+opacity: 1;
+}
+.label4{
+          top: 409px;
+
+margin-left: 435px;
+width: 92px;
+height: 20px;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 20px/28px Gilroy-Medium;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal normal 20px/28px Gilroy-Medium;
+letter-spacing: 0px;
+color: #222222;
+opacity: 1;
+}
+.formControl2{ 
+          margin-top: 18px;
+left: 146px;
+width: 479px;
+height: 54px;
+border: 1px solid #C3C3C3;
+border-radius: 8px;
+opacity: 1;
+}
+.formControl3{
+          margin-top: 18px;
+margin-left: 35px;
+width: 479px;
+height: 54px;
+border: 1px solid #C3C3C3;
+border-radius: 8px;
+opacity: 1;
+}
+.divl{
+          margin-top:36px;
+}
+.label5{ 
+          
+          margin-top: 36px;
+          left: 146px;
+          width: 90px;
+          height: 20px;
+          font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 20px/28px Gilroy-Medium;
+          letter-spacing: var(--unnamed-character-spacing-0);
+          text-align: left;
+          font: normal normal normal 20px/28px Gilroy-Medium;
+          letter-spacing: 0px;
+          color: #222222;
+          opacity: 1;
+}
+.formControl5{
+          margin-top: 18px;
+left: 146px;
+width: 479px;
+height: 54px;
+border: 1px solid #C3C3C3;
+border-radius: 8px;
+opacity: 1;
+}
